@@ -1,4 +1,6 @@
-### Hi there 👋
+フルスタックに色々やってます。
+最近はGolang、React、GraphQLで作ってることが多いです。
+リポジトリはサンドボックスのような使い方をしているので、ゴミが多いです。すみません。。。
 
 <!--
 **purini-to/purini-to** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
